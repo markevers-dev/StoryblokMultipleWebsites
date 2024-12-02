@@ -1,1 +1,1 @@
-To contact the author about transfership of the repository to a new owner, please contact <a href="mailto:m.evers@lukkien.com">m.evers@lukkien.com<a> or <a href="mailto:contact@markevers.dev">contact@markevers.dev<a>
+To contact the author about transfership of the repository to a new owner, please contact <a href="mailto:m.evers@lukkien.com">m.evers@lukkien.com<a> or <a href="mailto:contact-markevers@proton.me">contact@markevers.dev<a>
